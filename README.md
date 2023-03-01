@@ -12,7 +12,7 @@ sudo apt-get install -y nodejs
 
 3. Install the required Node.js libraries
 ```
-npm install onoff --save
+npm install pigpio --save
 npm install mqtt --save
 ```
 
